@@ -13,14 +13,19 @@
     </image>
     
     <item>
-      <title>ASCO Quality Care Symposium</title>
-      <link>https://h24901.github.io/post/asco_qc/</link>
+      <title>ASA Utah Chapter Annual Meeting</title>
+      <link>https://h24901.github.io/post/221019_asa_utah_chapter/</link>
       <pubDate>Thu, 20 Oct 2022 09:29:32 -0600</pubDate>
-      <guid>https://h24901.github.io/post/asco_qc/</guid>
-      <description>&lt;p&gt;American Soceity of Clinical Oncology (ASCO) Quality Care symposium was held on September 30 - October 1st! I had a wonderful opportunity to go and present my work.&lt;/p&gt;
-&lt;p&gt;It was my &lt;strong&gt;first time&lt;/strong&gt; to present my work at any conferecne. It was so inspirig to do something.&lt;/p&gt;
-&lt;p&gt;On the first day, most of the talk was on health disparities. On the second day, we talkbd about delivering health care effectively and thing slike that. It was inspiring to be with people who were so enthusiastic about their work.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s my poster:&lt;/p&gt;
+      <guid>https://h24901.github.io/post/221019_asa_utah_chapter/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;American Statistical Association (ASA) Utah Chapter got together in person for the first time in 3 years! They didn&amp;rsquo;t have an annual meeting due to COVID. I am not a member yet, but Jincheng, one of my committee members, is a Treasurer of the Utah chpater, so I decided to go.&lt;/p&gt;
+&lt;p&gt;The topics were on data science. It clarified some of confusing terms about data science. Data scientists use all scientific inquiry, math &amp;amp; stat skills, and coding skills to answer importnat questions.&lt;/p&gt;
+&lt;p&gt;The two speakers talked about&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Data scientist, it’s role and significance UTAH chapter president&lt;/li&gt;
+&lt;li&gt;Applan itermountanin: presentation on intermountain and what data scientist can do
+Promising career.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;
 
 
@@ -37,14 +42,75 @@
 
 
 
-&lt;figure  id=&#34;figure-presentation-poster&#34;&gt;
+&lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://h24901.github.io/poster_final.pdf&#34; alt=&#34;Presentation poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Presentation poster
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://h24901.github.io/ASA.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;And here&amp;rsquo;s a picture of myself!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ASCO Quality Care Symposium</title>
+      <link>https://h24901.github.io/post/220930_asco_qc/</link>
+      <pubDate>Thu, 20 Oct 2022 09:29:32 -0600</pubDate>
+      <guid>https://h24901.github.io/post/220930_asco_qc/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;American Soceity of Clinical Oncology (ASCO) Quality Care symposium was held on September 30 - October 1st in Chicago! I had a wonderful opportunity to do a poster presentaiton.&lt;/p&gt;
+&lt;p&gt;It was my &lt;strong&gt;first time&lt;/strong&gt; presenting my work at any conference. I have been working with Wallace Akerely, an oncologist at Huntsman Cancer Institute (Salt Lake City, UT) about how we can use CT scans of body composition such as fat and muscles to estiamte survival of non-small cell lung cancer patients. In my team is also Ben Haaland, Adriana Colletta, and Jeffrey Yep. We have some preliminary outcome of the analysis and submitted our work to present at ASCO quality symposium. Fortunately, I was given the opportunity to share my work!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s my poster.:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;poster_final.pdf&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;ASCO Quality care symposium was amazing. There were people who were so passionate about what they do.  On the first day, most of the talks were on health disparities. Posters presented were along the same line. On the second day, the topics are mostly on delivering health care effectively anad how to improve health policy so that we can serve the people better. I presented my poster on the second day.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a picture of me with my own poster!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_06eed6b590cc0f16581c5cc503d449a8.webp 400w,
+               /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_f7fcd53e000def95c64b475f02b0856c.webp 760w,
+               /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://h24901.github.io/post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_06eed6b590cc0f16581c5cc503d449a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I have realized how much I enjoy presenting my work with the public! I hope to have more opportunities to present my work with the people with same interest in the near future.&lt;/p&gt;
 </description>
     </item>
     
