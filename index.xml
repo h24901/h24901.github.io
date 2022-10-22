@@ -38,7 +38,7 @@
       <pubDate>Thu, 20 Oct 2022 09:29:32 -0600</pubDate>
       <guid>https://h24901.github.io/post/221019_asa_utah_chapter/</guid>
       <description>&lt;br&gt;
-&lt;p&gt;American Statistical Association (ASA) Utah Chapter got together in person for the first time in 3 years! They didn&amp;rsquo;t have an annual meeting due to COVID. I am not a member yet, but Jincheng, one of my committee members, is a Treasurer of the Utah chpater, so I decided to go.&lt;/p&gt;
+&lt;p&gt;American Statistical Associati on (ASA) Utah Chapter got together in person for the first time in 3 years! They didn&amp;rsquo;t have an annual meeting due to COVID. I am not a member yet, but Jincheng, one of my committee members, is a Treasurer of the Utah chpater, so I decided to go.&lt;/p&gt;
 &lt;p&gt;The topics were on data science. It clarified some of confusing terms about data science. Data scientists use all scientific inquiry, math &amp;amp; stat skills, and coding skills to answer importnat questions.&lt;/p&gt;
 &lt;p&gt;The two speakers talked about&lt;/p&gt;
 &lt;ol&gt;
@@ -64,9 +64,51 @@ Promising career.&lt;/li&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://h24901.github.io/ASA.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp 400w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_096fa369d9d8ec7791e5bf4194ca571f.webp 760w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://h24901.github.io/post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;img src=&#34;ASA.jpg&#34;  alt=&#34;Alt text&#34; ri /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-image-title&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;the image title&#34; srcset=&#34;
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp 400w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_096fa369d9d8ec7791e5bf4194ca571f.webp 760w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://h24901.github.io/post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      the image title
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;{{ $image := .Resources.GetMatch &amp;ldquo;ASA.jpg&amp;rdquo; }}
+{{ $image := $image.Resize &amp;ldquo;600x&amp;rdquo; }}
+{{ with $image }}
+&lt;img src=&#34;{{ .RelPermalink }}&#34; width=&#34;{{ .Width }}&#34; height=&#34;{{ .Height }}&#34;&gt;
+{{ end }}&lt;/p&gt;
 </description>
     </item>
     
@@ -121,10 +163,10 @@ Promising career.&lt;/li&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_06eed6b590cc0f16581c5cc503d449a8.webp 400w,
+               /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_a028e7dcec557e29523bc95c47ebcbd2.webp 400w,
                /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_f7fcd53e000def95c64b475f02b0856c.webp 760w,
                /post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://h24901.github.io/post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_06eed6b590cc0f16581c5cc503d449a8.webp&#34;
+               src=&#34;https://h24901.github.io/post/220930_asco_qc/me_with_poster_hu6a287c19d4478971433d21a46b5f6b00_5030211_a028e7dcec557e29523bc95c47ebcbd2.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -890,7 +890,7 @@
 
     <div class="article-style">
       <br>
-<p>American Statistical Association (ASA) Utah Chapter got together in person for the first time in 3 years! They didn&rsquo;t have an annual meeting due to COVID. I am not a member yet, but Jincheng, one of my committee members, is a Treasurer of the Utah chpater, so I decided to go.</p>
+<p>American Statistical Associati on (ASA) Utah Chapter got together in person for the first time in 3 years! They didn&rsquo;t have an annual meeting due to COVID. I am not a member yet, but Jincheng, one of my committee members, is a Treasurer of the Utah chpater, so I decided to go.</p>
 <p>The topics were on data science. It clarified some of confusing terms about data science. Data scientists use all scientific inquiry, math &amp; stat skills, and coding skills to answer importnat questions.</p>
 <p>The two speakers talked about</p>
 <ol>
@@ -916,9 +916,51 @@ Promising career.</li>
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="/ASA.jpg" alt="" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="" srcset="
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp 400w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_096fa369d9d8ec7791e5bf4194ca571f.webp 760w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
+<img src="ASA.jpg"  alt="Alt text" ri />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-the-image-title">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="the image title" srcset="
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp 400w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_096fa369d9d8ec7791e5bf4194ca571f.webp 760w,
+               /post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/221019_asa_utah_chapter/ASA_hua4211aea49174685eddf638b3b519f8f_3639928_bf06a5a54ed1899227071e27fd75570e.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      the image title
+    </figcaption></figure>
+<p>{{ $image := .Resources.GetMatch &ldquo;ASA.jpg&rdquo; }}
+{{ $image := $image.Resize &ldquo;600x&rdquo; }}
+{{ with $image }}
+<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}</p>
 
     </div>
 
